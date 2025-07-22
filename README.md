@@ -1,2 +1,2 @@
-# bgpreconf
-We would like to create a novel BGP reconfiguration method.
+# ReconBench
+We would like to construct LTL benchmark. Coming soon.
