@@ -1,6 +1,7 @@
 # ReconBench
 The full dataset can be found on https://huggingface.co/datasets/zhmzhmzhm/ReconBench.
 The structure of each line is 
+```json
 {
   "trace_id": str
   "old_trace_id": str
@@ -15,4 +16,4 @@ The structure of each line is
   "ground_truth": bool|str|list(groundtruth)
   "cot": str(cot of solving)
 }
-
+```
